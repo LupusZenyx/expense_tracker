@@ -1,0 +1,13 @@
+{
+    "currency": "EUR",
+    "budget_limits": {
+        "Food": 300.0,
+        "Transportation": 150.0,
+        "Housing": 1000.0,
+        "Utilities": 200.0,
+        "Entertainment": 200.0,
+        "Shopping": 250.0,
+        "Healthcare": 100.0,
+        "Miscellaneous": 100.0
+    }
+}
